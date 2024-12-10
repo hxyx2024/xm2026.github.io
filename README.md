@@ -4,7 +4,7 @@
 ##### VIP接口：提供 UC、115、迅雷、夸克、阿里、移动、pikpak等会员网盘、高速机场！（接口免费使用）
 
 - 获取公开接口： <a href="https://hx208.top " target="_blank">hx208.top</a>    （接口定时更新）
-
+- 获取免费机场： <a href="https://www.hxyx.us.kg" target="_blank">www.hxyx.us.kg</a>
 - 本站永久网址: <a href="https://xm2026.github.io" target="_blank">xm2026.github.io</a>
 
 - 免责声明: 本接口来自PG包仅供学习或测试设备，禁止中国大陆用户使用，不得用于商业用途，否则后果自负！
